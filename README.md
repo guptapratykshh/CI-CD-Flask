@@ -2,50 +2,6 @@
 
 A simple Flask web application that demonstrates basic web development concepts and testing.
 
-## Project Description
-
-This project is a Flask-based web application that showcases modern web development practices and DevOps principles. Here's what I've built and how:
-
-### What I've Built
-1. **Web Application**
-   - A Flask application with a simple "Hello World" endpoint
-   - Clean, maintainable code structure following Python best practices
-   - Basic error handling and response formatting
-
-2. **Testing Infrastructure**
-   - Comprehensive test suite using pytest
-   - Unit tests for all endpoints
-   - Test-driven development approach
-
-3. **DevOps Pipeline**
-   - GitHub Actions for continuous integration
-   - Automated testing on every push
-   - Docker containerization for consistent deployment
-   - Deployment to Google Cloud Platform (GCP)
-
-### How I Built It
-1. **Development Process**
-   - Started with a basic Flask application structure
-   - Implemented test-driven development (TDD) approach
-   - Added Docker support for containerization
-   - Set up CI/CD pipeline using GitHub Actions
-
-2. **Technologies Used**
-   - **Backend**: Python with Flask framework
-   - **Testing**: pytest for unit testing
-   - **Containerization**: Docker for consistent environments
-   - **CI/CD**: GitHub Actions for automation
-   - **Cloud Platform**: Google Cloud Platform for deployment
-
-3. **Key Features**
-   - Simple and clean API design
-   - Automated testing pipeline
-   - Containerized deployment
-   - Cloud-native architecture
-   - Easy to set up and run locally
-
-The project demonstrates a complete software development lifecycle, from local development to production deployment, incorporating modern DevOps practices and cloud-native principles.
-
 ## Features
 
 - Simple "Hello World" endpoint
