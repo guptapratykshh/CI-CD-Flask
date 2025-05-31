@@ -4,7 +4,7 @@ A simple Flask web application that demonstrates basic web development concepts 
 
 ## Features
 
-- Simple "Hello World" endpoint
+- Simple "Hello World! This is Pratyksh Gupta's Flask App" endpoint
 - Built-in test suite
 - Docker support
 - CI/CD pipeline configuration
