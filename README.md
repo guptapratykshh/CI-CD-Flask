@@ -92,5 +92,7 @@ This is a flask app whose CI/CD pipeline in available on Github Actions And Depl
 
 ## OutPut
 Once you run the app your output should be:
-<img width="741" alt="Screenshot 2025-05-31 at 5 32 23 PM" src="https://github.com/user-attachments/assets/e1aa31c1-7baa-434d-9305-178f53ad6edf" />
+https://flasktest-app-885153741586.us-central1.run.app/
+![image](https://github.com/user-attachments/assets/a114edbd-3549-4dfb-a918-116f0f7ee25d)
+
 
